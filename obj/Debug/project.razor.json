@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/hoshimitsuhiko/Desktop/開発/annabell_c91-annabel-a7348b62bb4f/Assembly-CSharp-Editor.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

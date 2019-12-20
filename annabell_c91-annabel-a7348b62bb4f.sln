@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "annabell_c91-annabel-a7348b62bb4f", "Assembly-CSharp-firstpass.csproj", "{0A2E975E-3DB0-39C8-8385-518AA70850CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "annabell_c91-annabel-a7348b62bb4f", "Assembly-CSharp.csproj", "{E38C6DA7-30FE-3C92-D9D3-406199D5BA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "annabell_c91-annabel-a7348b62bb4f", "Assembly-CSharp-Editor.csproj", "{F093A988-CAF4-B3BB-A38C-7F38BA2113FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A2E975E-3DB0-39C8-8385-518AA70850CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2E975E-3DB0-39C8-8385-518AA70850CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2E975E-3DB0-39C8-8385-518AA70850CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2E975E-3DB0-39C8-8385-518AA70850CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38C6DA7-30FE-3C92-D9D3-406199D5BA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38C6DA7-30FE-3C92-D9D3-406199D5BA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38C6DA7-30FE-3C92-D9D3-406199D5BA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38C6DA7-30FE-3C92-D9D3-406199D5BA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F093A988-CAF4-B3BB-A38C-7F38BA2113FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F093A988-CAF4-B3BB-A38C-7F38BA2113FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F093A988-CAF4-B3BB-A38C-7F38BA2113FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F093A988-CAF4-B3BB-A38C-7F38BA2113FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
